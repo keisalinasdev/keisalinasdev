@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am full-stack engineer, I deliver high-quality productS.
+- 🔭 I am full-stack engineer, I deliver high-quality products.
 
 - 🌱 I’ve worked with many technologies, Angular, React, React Native, Node, Android, etc...
 
