@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I am full-stack engineer, I deliver high-quality productS.
+
+- 🌱 I’ve worked with many technologies, Angular, React, React Native, Node, Android, etc...
+
+- 💬 I Create web apps, mobile apps, and help others to code their dreams.
+
 <!--
 **keisalinasdev/keisalinasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
