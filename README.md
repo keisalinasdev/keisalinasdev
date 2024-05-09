@@ -2,7 +2,7 @@
 
 - 🔭 I am full-stack engineer, I deliver high-quality products.
 
-- 🌱 I’ve worked with many technologies, Angular, React, React Native, Node, Android, etc...
+- 🌱 I’ve worked with many technologies, Angular, React, React Native, Node, Kotlin, Java, etc...
 
 - 💬 I Create web apps, mobile apps, and help others to code their dreams.
 
